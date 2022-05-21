@@ -1,3 +1,11 @@
+This is a Routing app built in react that helps to navigate from different pages.
+
+It has Welcome page, guest page and product page.
+
+Product page shows the details of various products listed on the page.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
